@@ -7,6 +7,11 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+Screen Recording Link
+
+<a href="https://drive.google.com/file/d/1RJqlunQbiSQc0LugLMDniNyqrwdjs99L/view?usp=sharing">Click Here !!!</a>
+
+
 Login Screen
 ![Screenshot from 2022-06-26 17-39-32](https://user-images.githubusercontent.com/38067432/175811381-ef5be065-fdf9-4a45-b9d5-006f51a36e11.png)
 
