@@ -7,58 +7,20 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## About Laravel
+<h5>Login Screen</h5>
+![Screenshot from 2022-06-26 17-39-32](https://user-images.githubusercontent.com/38067432/175811381-ef5be065-fdf9-4a45-b9d5-006f51a36e11.png)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+<h5>Alarm Screen</h5>
+![Screenshot from 2022-06-26 17-40-17](https://user-images.githubusercontent.com/38067432/175811406-940696a1-2bc2-4cad-b794-7d01687b248c.png)
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h5>Warning Text If Alarm value empty</h5>
+![Screenshot from 2022-06-26 17-40-23](https://user-images.githubusercontent.com/38067432/175811414-528ad094-0571-43b3-bd0a-748e1cc32d63.png)
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h5>Bus Time</h5>
+![Screenshot from 2022-06-26 17-40-40](https://user-images.githubusercontent.com/38067432/175811429-7313d8eb-3823-4d44-a588-8860bf430c79.png)
 
-## Learning Laravel
+<h5>Bus Time Add</h5>
+![Screenshot from 2022-06-26 17-40-57](https://user-images.githubusercontent.com/38067432/175811445-be2e7012-5d2f-4fec-9bd2-faddf1616a1e.png)
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
-
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
-
-## Laravel Sponsors
-
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
-
-### Premium Partners
-
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
-
-## Contributing
-
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+<h5>Catch movie times</h5>
+![Screenshot from 2022-06-26 17-40-54](https://user-images.githubusercontent.com/38067432/175811447-ddd8128d-dc20-4338-abc6-b3c469b26683.png)
