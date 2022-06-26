@@ -8,7 +8,7 @@
 </p>
 
 <h5>Login Screen</h5>
-![Screenshot from 2022-06-26 17-39-32]
+![Screenshot from 2022-06-26 17-39-32](https://user-images.githubusercontent.com/38067432/175811381-ef5be065-fdf9-4a45-b9d5-006f51a36e11.png)
 
 <h5>Alarm Screen</h5>
 ![Screenshot from 2022-06-26 17-40-17](https://user-images.githubusercontent.com/38067432/175811406-940696a1-2bc2-4cad-b794-7d01687b248c.png)
